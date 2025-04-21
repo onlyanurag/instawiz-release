@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InstaMoon"
+rootProject.name = "InstaWiz"
 include(":app")
