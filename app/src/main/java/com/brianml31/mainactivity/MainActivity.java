@@ -1,4 +1,4 @@
-package com.brianml31.mainactivity;
+package com.instawiz.mainactivity;
 
 import android.os.Bundle;
 
