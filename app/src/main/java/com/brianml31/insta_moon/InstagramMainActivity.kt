@@ -1,4 +1,4 @@
-package com.brianml31.insta_moon
+package com.instagram.android
 
 import android.app.Activity
 import android.content.Intent
