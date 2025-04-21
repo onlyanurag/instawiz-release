@@ -1,4 +1,4 @@
-package com.brianml31.instamoon;
+package com.instawiz.android;
 
 import android.app.Activity;
 import android.app.Application;
