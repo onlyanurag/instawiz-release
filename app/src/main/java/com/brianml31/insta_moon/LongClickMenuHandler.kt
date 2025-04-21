@@ -1,4 +1,4 @@
-package com.brianml31.insta_moon
+package com.instawiz.android
 
 import android.content.Context
 import android.view.View
